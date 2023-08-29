@@ -1,4 +1,4 @@
-#RegexStringBuilder
+String Builder (Provisory Name)
 
 RegexStringBuilder is a utility class designed to simplify the creation of complex regular expressions using a chainable, method-based approach.
 
